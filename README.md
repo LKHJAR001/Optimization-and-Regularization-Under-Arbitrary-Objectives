@@ -1,2 +1,2 @@
 # Optimization-and-Regularization-Under-Arbitrary-Objectives
-Associated files for: Optimization and Regularization Under Arbitrary Objectives (in progress). The three pdf files correspond to the three RL tasks employed in the study. The introduction included in The Navigaiton Problem.pdf, whereas the conclusion is inlcuded in Blackjack.pdf. 
+Associated files for: Optimization and Regularization Under Arbitrary Objectives (in progress). This repository contains three PDF files, each corresponding to one of the reinforcement learning tasks used in the study. The introduction is included in The Navigation Problem.pdf, whereas the conclusion is included in Blackjack.pdf. 
