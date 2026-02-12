@@ -1,5 +1,5 @@
 # Optimization-and-Regularization-Under-Arbitrary-Objectives
-Associated files for: Optimization and Regularization Under Arbitrary Objectives. This repository contains the PDF report, as well as the associated presentation pdf.
+Associated files for: Optimization and Regularization Under Arbitrary Objectives. This repository contains the PDF report, R code (a file for each of the 3 reinforcement learning problems in the study), the "Toy Example" 3-Class CLassification dataset "Collider_Data_2022", as well as the associated Beamer presentation pdf.
 
 Abstract:
 
